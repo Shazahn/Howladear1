@@ -18,3 +18,8 @@ ls
 cd Howladear1
 
 python2 ShazahnHowladear.py
+
+
+user :Shazahn
+
+pass : Howladear
