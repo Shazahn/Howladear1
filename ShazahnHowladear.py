@@ -74,7 +74,7 @@ id login krne ke liye super vpn ko download kare play store
 sy ab new id binaye Facebook ki ab us 🇦🇹 ki country lgya ke
 logi kr de ho jaye gi inshallah
                                      
-\033[1;91m  💋💋💋     💘 MR HASNAT💘 Whatsapp 💘03138307366
+\033[1;91m  💋💋💋     💘 SHAZAHN HOWLADEAR 💘 Whatsapp 💘01931192399
                             
 \033[1;91m♥۫I Love you۰
 \033[1;93m¨¨”°º★”°º★¨°º➡▶🌸🍃 ☆*
@@ -92,8 +92,8 @@ logi kr de ho jaye gi inshallah
 \033[1;97m¨¨”°º★”°º★¨°º➡▶🌸🍃 
                                
 \033[1;96m❋❈╭┳✪✪╤──────────────────────────────────────➛➢
-\033[1;96m♚♚║\033[1;32mCREATOR  : \033[1;32mHASNAT
-\033[1;96m♚♚║\033[1;32mwhatsapp. : \033[1;32mWhatsapp number 03138307366
+\033[1;96m♚♚║\033[1;32mCREATOR  : \033[1;32mShazahn
+\033[1;96m♚♚║\033[1;32mwhatsapp. : \033[1;32mWhatsapp number 01931192399
 \033[1;96m♚♚║\033[1;32mWARNING  : \033[1;32mI M NOT is ka galt istmal na krna shukria
 \033[1;96m❋❈╰┻✪✪╧─────────────────────────────────────➛➢"""
 
@@ -125,12 +125,12 @@ print """
 \033[1;92m╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░╚═╝░░╚══╝╚═╝░░╚═╝░░░╚═╝░░░                    
 
 
-\033[1;91m❤️❤️❤️❤️❤️❤️❤️❤️❤️  Mr HASNAT ❤️❤️❤️❤️❤️❤️❤️❤️
+\033[1;91m❤️❤️❤️❤️❤️❤️❤️❤️❤️  Mr SHAZAHN ❤️❤️❤️❤️❤️❤️❤️❤️
 
 			       
 \033[1;96m❋❈╭┳✪✪╤──────────────────────────────────────➛➢
-\033[1;96m♚♚║\033[1;32mCREATOR  : \033[1;32mHASNAT
-\033[1;96m♚♚║\033[1;32mWHATSAPP : \033[1;32mWhatsapp number 03138307366
+\033[1;96m♚♚║\033[1;32mCREATOR  : \033[1;32mSHAZAHN
+\033[1;96m♚♚║\033[1;32mWHATSAPP : \033[1;32mWhatsapp number 01931192399
 \033[1;96m♚♚║\033[1;32mWARNING  : \033[1;32mI M NOT is ka galt istmal na krna
 \033[1;96m❋❈╰┻✪✪╧─────────────────────────────────────➛➢"""
 
@@ -149,8 +149,8 @@ jalan("\033[0;92m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ♚
 
 print "\033[1;95m🔀 ⚌⚌⚌⚍⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌ 🔀"
 
-CorrectUsername = "Hasnat"
-CorrectPassword = "Hasnat"
+CorrectUsername = "SHAZAHN"
+CorrectPassword = "HOWLADEA"
 
 loop = 'true'
 while (loop == 'true'):
@@ -162,11 +162,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://chat.whatsapp.com/Bgi6jhqCBWkL5cvggcqIiG')
+            os.system HOWLADEAE 
     else:
         print "Wrong Username"
-        os.system('xdg-open https://chat.whatsapp.com/Bgi6jhqCBWkL5cvggcqIiG')
-
+        os.system SHAZQHN
 def login():
 	os.system('clear')
 	try:
@@ -491,14 +490,14 @@ def pilih_super():
 	print"\033[1;91mTotal OK/\x1b[1;95mCP \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
 \033[1;96m❋❈╭┳✪✪╤──────────────────────────────────────➛➢
-\033[1;96m♚♚║\033[1;32mCREATOR  : \033[1;32mHASNAT
-\033[1;96m♚♚║\033[1;32mwhatsapp  : \033[1;33mWhatsapp 03138307366
+\033[1;96m♚♚║\033[1;32mCREATOR  : \033[1;32mSHAZAHN
+\033[1;96m♚♚║\033[1;32mwhatsapp  : \033[1;33mWhatsapp 01931192399
 \033[1;96m♚♚║\033[1;32mWARNING  : \033[1;32mI M NOT RESPONSIBLE FOR ANY MISS USE
 \033[1;96m❋❈╰┻✪✪╧─────────────────────────────────────➛➢
   
   
   \033[1;95mTHANK YOU FOR USING OUR TOOL
-\033[1;95mCHECKPOINT ACCOUNT AFTER 7 DAYS
+\033[1;95mCHECKPOINT ACCOUNT AFTER 3 DAYS
   \033[1;95mI M NOT RESPONSIBLE FOR ANY MISS USE AUTHOR HASNAT
 \033[1;95m  HASNAT
 \033[1;98m🔀 ⚌⚌⚌⚍⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌ 🔀   """
